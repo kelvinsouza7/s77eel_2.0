@@ -1,3 +1,4 @@
+// testando
 #Criando o Perfil do Aço
 print("Bem Vindo(a) ao S77eel\n")
 print("Para iniciarmos o dimensionamento devemos adotar um perfil a ser utilizado com base na Tabela de Perfis Laminados I e H\n")
